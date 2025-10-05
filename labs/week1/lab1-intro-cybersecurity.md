@@ -1,4 +1,4 @@
-# Lab — Offensive Security Intro (TryHackMe)
+# Lab 1 — Offensive Security Intro (TryHackMe)
 **Date:** 05/10/2025  
 **Platform:** TryHackMe — Offensive Security Intro
 
