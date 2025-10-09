@@ -14,9 +14,13 @@ Goal: to demonstrate real detection, triage, and reporting workflows used in SOC
 - Lab 1: TryHackMe Intro to Cyber Security
 
 ## Future Weeks
-- Networking & OSI model labs
-- SIEM log analysis
-- Incident response write-ups
+## 📂 Labs Index
+| Week | Lab | Focus | Link |
+|------|-----|--------|------|
+| 1 | Intro to Cybersecurity | Fundamentals | [View](labs/week1/lab1-intro-cybersecurity.md) |
+| 2 | Linux Fundamentals 1 | Linux CLI | *coming soon* |
+| 3 | OSI & Networking | Network Analysis | *coming soon* |
+| 4 | Blue Team Fundamentals | Defensive Concepts | *coming soon* |
 
 ## Contact
 📧 Email: zaqwan.ahmed157a@gmail.com  
